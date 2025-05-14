@@ -1,4 +1,4 @@
-Employee_ID,Office_Location,Department,Idea_Submission_Date,Idea_Title,Idea_Category,Number_of_Votes,Collaboration_Status,Approval_Status,Implementation_Status,Security_Concern_Flag
+Employee ID,Office Location,Department,Idea Submission Date,Idea Title,Idea Category,Number of Votes,Collaboration Status,Approval Status,Implementation Status,Security Concern Flag
 587b45d8,Germany,Renewable Energy,16/04/2024,Idea 1,Sustainable Transport,231,Single Contributor,Pending,Not Started,No
 0d3e8b8e,Canada,Renewable Energy,14/01/2024,Idea 2,Water Management,477,Cross-Regional Team,Approved,In Progress,No
 fa012fe7,France,Environmental Policy,10/01/2025,Idea 3,Renewable Energy,48,Cross-Regional Team,Approved,Not Started,Yes
